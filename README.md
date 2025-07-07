@@ -1,11 +1,11 @@
 # 👨‍💻 Muhammad Maaz  
-**Software Engineer | Deep Learning Enthusiast | Problem Solver**
+**AI Developer | Computer Vision & GenAI | LangChain**
 
 ---
 
 ## 👋 About Me
 
-Hi there! I'm **Muhammad Maaz**, a passionate Software Engineering student at UET Mardan (Class of 2025) who enjoys building intelligent systems that solve real-world problems.
+Hi there! I'm **Muhammad Maaz**, a passionate Software Engineer, who enjoys building intelligent systems that solve real-world problems.
 
 I'm deeply interested in **AI, Computer Vision, and Generative AI**, and always looking to turn complex ideas into impactful tools — whether it's detecting driver fatigue, simulating doctor-patient interactions, or securing networks with smart intrusion detection systems.
 
@@ -28,16 +28,7 @@ I believe in **working smarter and harder**, especially when it comes to AI. �
 `Python` `C++` `TensorFlow` `Keras` `OpenCV` `LangChain` `Hugging Face` `Scikit-learn` `NumPy` `Pandas` `Matplotlib`
 
 **Frameworks & Tools**  
-`Streamlit` `YOLO` `SAM` `FAISS` `Django` `Postman` `Git` `GitHub`
-
----
-
-## 💼 Experience
-
-**Computer Vision Intern — ITSOLERA Pvt Ltd (Remote)**  
-- Built a visual search engine for ecommerce using InceptionV3 + FAISS  
-- Created a real-time assistant for peach growers using CNNs and YOLOv8  
-- Developed a CNN for early detection of brain tumors using MRI scans
+`Streamlit` `YOLO` `SAM` `FAISS` `Fast Api` `Git` `GitHub`
 
 ---
 
