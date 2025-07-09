@@ -63,8 +63,11 @@ I believe in **working smarter and harder**, especially when it comes to AI. �
 ## 📫 Let's Connect
 
 📧 **Email**: muhammadmaaz724@gmail.com  
+
 🔗 [**Website**](https://my-portfolio-website-mocha-psi.vercel.app/)
+
 🔗 [**GitHub**](https://github.com/muhammadmaaz724)  
+
 🔗 [**LinkedIn**](https://www.linkedin.com/in/muhammad-maaz-8b5a5a23a/)
 
 ---
