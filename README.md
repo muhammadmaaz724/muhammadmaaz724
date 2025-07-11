@@ -1,5 +1,5 @@
 # 👨‍💻 Muhammad Maaz  
-**AI Developer | Computer Vision & GenAI | LangChain**
+**AI Developer | GenAI & Computer Vision | LangChain**
 
 ---
 
